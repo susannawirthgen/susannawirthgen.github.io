@@ -1,0 +1,14 @@
+title: "Susanna Wirthgen"
+description: "PhD researcher (Political Science) · DYNAMICS RTG (HU Berlin & Hertie School)"
+theme: minima
+
+minima:
+  skin: auto
+
+header_pages:
+  - research.md
+  - teaching.md
+  - cv.md
+
+# Optional: makes URLs cleaner
+permalink: pretty
